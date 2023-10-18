@@ -1,2 +1,6 @@
 # Issue-tracker
-This repo utilizes nextjs
+This project utilizes 
+    ->nextjs
+    ->TypeScript
+    ->Tailwind
+    ->prisma
